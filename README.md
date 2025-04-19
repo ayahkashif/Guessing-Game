@@ -13,4 +13,4 @@ Prompts the user to guess that number, if input is not a positive integer, the p
 + Outputs `Just right!` when guess the right number!<br/><br/>
 
 ## ⚡️ Demo
-<img src="https://github.com/ayahkashif/Guessing-Game/blob/main/demo.png" alt="demo image">
+<img src="https://github.com/ayahkashif/Guessing-Game/blob/main/demo.png" alt="demo image" width="583" height="265">
