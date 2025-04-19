@@ -12,7 +12,5 @@ Prompts the user to guess that number, if input is not a positive integer, the p
 
 + Outputs `Just right!` when guess the right number!<br/><br/>
 
-
-
-
-
+## ⚡️ Demo
+! [demo image](/https://github.com/ayahkashif/Guessing-Game/main/demo.png)
